@@ -2,3 +2,13 @@
  * All of the CSS for your admin-specific functionality should be
  * included in this file.
  */
+
+ /* Background Color of Left Panel */
+ #adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap {
+   background-color: #efefef;
+ }
+
+ /* Left Color */
+ #adminmenu a {
+
+ }
